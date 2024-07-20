@@ -12,6 +12,10 @@ jobs:
     name: get addresses
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+        persist-credentials: false
+        fetch-depth: 0     
       - name: Setup node
         uses: actions/setup-node@v4
         with:
@@ -20,3 +24,7 @@ jobs:
         run: npm install
       - name: Run code
         run: node index.js
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
