@@ -22,7 +22,11 @@ jobs:
           node-version: '20.x'
       - name: Install Dependencies
         run: npm install
-      - name: Run code 
+      - name: Run code
+        env:
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          GOOGLE_SPREED_SHEET: ${{ secrets.GOOGLE_SPREED_SHEET }}
         run: node index.js
       - name: Commit & Push changes
         uses: actions-js/push@master
