@@ -58,7 +58,7 @@ for (let i = 0; i < Asurows.length; i++) {
     copy_aus_data = copy_aus_data.replace("<POSTNR>", Asurows[i].get("Postnr") || "OKÄND");
     copy_aus_data = copy_aus_data.replace("<REGION>", Asurows[i].get("Region") || "OKÄND");
     copy_aus_data = copy_aus_data.replace("<ÄGARE>", Asurows[i].get("Ägare") || "OKÄND");
-    copy_aus_data = copy_aus_data.replace("<TITEL>", Asurows[i].get("Ägare") || "Titel");
+    copy_aus_data = copy_aus_data.replace("<TITEL>", Asurows[i].get("Titel") || "OKÄND");
     all_hcon_asu_data += copy_aus_data;
 }
 
