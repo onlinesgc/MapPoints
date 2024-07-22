@@ -19,7 +19,7 @@ const sheet = doc.sheetsByIndex[0];
 
 let rows = await sheet.getRows();
 let HOCON_DATA = "marker-sets: {\n\tCities-markers: {\n\t\tlabel:\"Städer\"\n\t\ttoggleable: true\n\t\tdefault-hidden: false\n\t\tsorting: 0\n\n\tmarkers:{\n\t\t\t<citys>}}}";
-let HOCON_CITY_DATA = "<name>:{\n\t\t\t\ttype:\"poi\"\n\t\t\t\tposition:{x: <X>, y: <Y>, z: <Z>}\n\t\t\t\tlabel: \"<name>\"\n\t\t\t\tdetail: \"<p style='width: 200px;'><b><NAMN></b> är en <TYP> på 90gQ Trusted. Staden grundades <DATUM> av <GRUNDARE> och ägs av <ÄGARE> och Staden styrs som en <STYRE>. Kod: <KOD>, Postnummer: <POSTNR>. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/<NAMN>' target='_blank'>Läs mer på wikin...</a></p>\"\n\t\t\t\ticon: \"assets/CitySymbol.png\"\n\t\t\t\tanchor: { x: 25, y: 45 }\n\t\t\t\tsorting: 0\n\t\t\t\tlisted: true\n\t\t\t\tmin-distance: 10\n\t\t\t\tmax-distance: 10000000}\n\t\t\t";
+let HOCON_CITY_DATA = "<name>:{\n\t\t\t\ttype:\"poi\"\n\t\t\t\tposition:{x: <X>, y: <Y>, z: <Z>}\n\t\t\t\tlabel: \"<name>\"\n\t\t\t\tdetail: \"<p style='width: 200px;'><b><NAMN></b> är en <TYP> på 90gQ Trusted. Staden grundades <DATUM> av <GRUNDARE>. Staden ägs av <ÄGARE>, och styrs som en <STYRE>. Kod: <KOD>, Postnummer: <POSTNR>. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/<NAMN>' target='_blank'>Läs mer på wikin...</a></p>\"\n\t\t\t\ticon: \"assets/CitySymbol.png\"\n\t\t\t\tanchor: { x: 25, y: 45 }\n\t\t\t\tsorting: 0\n\t\t\t\tlisted: true\n\t\t\t\tmin-distance: 10\n\t\t\t\tmax-distance: 10000000}\n\t\t\t";
 let all_hcon_city_data = "";
 for(let i = 0; i < rows.length; i++){
     let copy_city_data = HOCON_CITY_DATA;
@@ -28,7 +28,7 @@ for(let i = 0; i < rows.length; i++){
     copy_city_data = copy_city_data.replace("<NAMN>",rows[i].get("Namn"));
     copy_city_data = copy_city_data.replace("<NAMN>",rows[i].get("Namn"));
     copy_city_data = copy_city_data.replace("<X>",rows[i].get("X")|| "0");
-    copy_city_data = copy_city_data.replace("<Y>",100);
+    copy_city_data = copy_city_data.replace("<Y>",64);
     copy_city_data = copy_city_data.replace("<Z>",rows[i].get("Z") || "0");
     copy_city_data = copy_city_data.replace("<TYP>",rows[i].get("Typ") || "OKÄND");
     copy_city_data = copy_city_data.replace("<DATUM>",rows[i].get("Datum") || "OKÄND");
