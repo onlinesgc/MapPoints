@@ -59,7 +59,7 @@ for (let i = 0; i < Asurows.length; i++) {
     copy_aus_data = copy_aus_data.replace("<REGION>", Asurows[i].get("Region") || "OKÄND");
     copy_aus_data = copy_aus_data.replace("<ÄGARE>", Asurows[i].get("Ägare") || "OKÄND");
     copy_aus_data = copy_aus_data.replace("<TITEL>", Asurows[i].get("Ägare") || "Titel");
-    all_hcon_asu_data += copy_city_data;
+    all_hcon_asu_data += copy_aus_data;
 }
 
 HOCON_DATA = HOCON_DATA.replace("<citys>", all_hcon_city_data);
