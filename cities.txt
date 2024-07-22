@@ -30,9 +30,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Norge:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −4130, y: 64, z: 115}
 				label: "Norge"
-				detail: "<p style='width: 200px;'><b>Norge</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 221X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Norge' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Norge</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Hundmos. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 221X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Norge' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -41,9 +41,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Itrin:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −3660, y: 64, z: 20}
 				label: "Itrin"
-				detail: "<p style='width: 200px;'><b>Itrin</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itrin' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Itrin</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itrin' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -54,7 +54,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
 				label: "Bedtopia"
-				detail: "<p style='width: 200px;'><b>Bedtopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 223X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Bedtopia' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Bedtopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Bedtopianerna. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 223X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Bedtopia' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -72,22 +72,11 @@ marker-sets: {
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Busstopia:{
-				type:"poi"
-				position:{x: 0, y: 64, z: 0}
-				label: "Busstopia"
-				detail: "<p style='width: 200px;'><b>Busstopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 224X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Busstopia' target='_blank'>Läs mer på wikin...</a></p>"
-				icon: "assets/CitySymbol.png"
-				anchor: { x: 25, y: 45 }
-				sorting: 0
-				listed: true
-				min-distance: 10
-				max-distance: 10000000}
 			Gurktopia:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 3780, y: 64, z: 1520}
 				label: "Gurktopia"
-				detail: "<p style='width: 200px;'><b>Gurktopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 225X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Gurktopia' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Gurktopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Gurkan_14. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 225X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Gurktopia' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -96,9 +85,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Remetto:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −2830, y: 64, z: 1805}
 				label: "Remetto"
-				detail: "<p style='width: 200px;'><b>Remetto</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 226X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Remetto' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Remetto</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Ninjahumlan. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 226X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Remetto' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -107,9 +96,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Kuba:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 4770, y: 64, z: −6310}
 				label: "Kuba"
-				detail: "<p style='width: 200px;'><b>Kuba</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 227X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kuba' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Kuba</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Per Persson. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 227X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kuba' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -118,9 +107,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Asufarutianska Jungfruöarna:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −3200, y: 64, z: 875}
 				label: "Asufarutianska Jungfruöarna"
-				detail: "<p style='width: 200px;'><b>Asufarutianska Jungfruöarna</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 228X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufarutianska Jungfruöarna' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Asufarutianska Jungfruöarna</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av m4sk3n. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 228X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufarutianska Jungfruöarna' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -129,7 +118,7 @@ marker-sets: {
 				max-distance: 10000000}
 			Öken event stället:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −3300, y: 64, z: 1410}
 				label: "Öken event stället"
 				detail: "<p style='width: 200px;'><b>Öken event stället</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2301. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Öken event stället' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
@@ -138,44 +127,44 @@ marker-sets: {
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Kolonin 17A:{
+			Dominion 17A:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
-				label: "Kolonin 17A"
-				detail: "<p style='width: 200px;'><b>Kolonin 17A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 231X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kolonin 17A' target='_blank'>Läs mer på wikin...</a></p>"
+				position:{x: −1785, y: 64, z: −1300}
+				label: "Dominion 17A"
+				detail: "<p style='width: 200px;'><b>Dominion 17A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 231X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17A' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Kolonin 17B:{
+			Dominion 17B:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
-				label: "Kolonin 17B"
-				detail: "<p style='width: 200px;'><b>Kolonin 17B</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 232X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kolonin 17B' target='_blank'>Läs mer på wikin...</a></p>"
+				position:{x: −1760, y: 64, z: 6320}
+				label: "Dominion 17B"
+				detail: "<p style='width: 200px;'><b>Dominion 17B</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 232X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17B' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Kolonin 18 BETA:{
+			Dominion 18 BETA:{
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
-				label: "Kolonin 18 BETA"
-				detail: "<p style='width: 200px;'><b>Kolonin 18 BETA</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 233X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kolonin 18 BETA' target='_blank'>Läs mer på wikin...</a></p>"
+				label: "Dominion 18 BETA"
+				detail: "<p style='width: 200px;'><b>Dominion 18 BETA</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 233X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18 BETA' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Kolonin 18A:{
+			Dominion 18A:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
-				label: "Kolonin 18A"
-				detail: "<p style='width: 200px;'><b>Kolonin 18A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 234X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kolonin 18A' target='_blank'>Läs mer på wikin...</a></p>"
+				position:{x: −19030, y: 64, z: −595}
+				label: "Dominion 18A"
+				detail: "<p style='width: 200px;'><b>Dominion 18A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 234X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18A' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -184,7 +173,7 @@ marker-sets: {
 				max-distance: 10000000}
 			Tanks lokalen:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −170, y: 64, z: −9970}
 				label: "Tanks lokalen"
 				detail: "<p style='width: 200px;'><b>Tanks lokalen</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 235X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Tanks lokalen' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
@@ -195,7 +184,7 @@ marker-sets: {
 				max-distance: 10000000}
 			Fabriken:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 1330, y: 64, z: 1345}
 				label: "Fabriken"
 				detail: "<p style='width: 200px;'><b>Fabriken</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 237X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Fabriken' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
@@ -206,9 +195,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Le Xina:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 55, y: 64, z: −8980}
 				label: "Le Xina"
-				detail: "<p style='width: 200px;'><b>Le Xina</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 238X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Le Xina' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Le Xina</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Bananiboi. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 238X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Le Xina' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -217,7 +206,7 @@ marker-sets: {
 				max-distance: 10000000}
 			Hungergames:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 725, y: 64, z: 8600}
 				label: "Hungergames"
 				detail: "<p style='width: 200px;'><b>Hungergames</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 239X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Hungergames' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
@@ -239,9 +228,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Leffes Skrot:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 190, y: 64, z: −1560}
 				label: "Leffes Skrot"
-				detail: "<p style='width: 200px;'><b>Leffes Skrot</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: -, Postnummer: 321X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Leffes Skrot' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Leffes Skrot</b> är en stad på 90gQ Trusted. Staden grundades 25 november 2021 av Bananiboi. Staden ägs av Samväldstaten Leffes Skrots ledare Bananiboi, och styrs som en enhetsstatlig rådsstyrd konstitutionell monarki. Kod: NRD, Postnummer: 321X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Leffes Skrot' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -250,9 +239,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Mountcaster:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −19090, y: 64, z: −625}
 				label: "Mountcaster"
-				detail: "<p style='width: 200px;'><b>Mountcaster</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: BIR_DOM, Postnummer: 322X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Mountcaster' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Mountcaster</b> är en dominion på 90gQ Trusted. Staden grundades 16 december 2021 av Birchesters Socialistparti. Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: BIR_DOM, Postnummer: 322X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Mountcaster' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -261,9 +250,9 @@ marker-sets: {
 				max-distance: 10000000}
 			New Wakefield:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 13380, y: 64, z: 690}
 				label: "New Wakefield"
-				detail: "<p style='width: 200px;'><b>New Wakefield</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: BIR_DOM, Postnummer: 323X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/New Wakefield' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>New Wakefield</b> är en dominion på 90gQ Trusted. Staden grundades 5 januari 2023 av Hornet (BLP). Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: BIR_DOM, Postnummer: 323X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/New Wakefield' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -296,7 +285,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
 				label: "Proletaria"
-				detail: "<p style='width: 200px;'><b>Proletaria</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Lukasabbe & Piximi. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Proletaria</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Lukasabbe & Piximi. Staden ägs av alla Proletarias medborgare, och styrs som en kommunistisk direktdemokrati. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -307,7 +296,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 1250, y: 64, z: 12400}
 				label: "Nagaria"
-				detail: "<p style='width: 200px;'><b>Nagaria</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: VIK, Postnummer: 533X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Nagaria' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Nagaria</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av KV. Staden ägs av H.M. Kung Kevin II och Viktorianerna, och styrs som en enhetsstatlig rådsstyrd konstitutionell monarki. Kod: VIK, Postnummer: 533X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Nagaria' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -318,7 +307,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −1310, y: 64, z: 3309}
 				label: "Sakura"
-				detail: "<p style='width: 200px;'><b>Sakura</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Mars. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: SAK, Postnummer: 534X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Sakura' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Sakura</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Mars. Staden ägs av H.M. Krotung Mars, och styrs som en enhetsstatlig absolut monarki. Kod: SAK, Postnummer: 534X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Sakura' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -327,9 +316,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Glesbôggda:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: 1900, y: 64, z: 3100}
 				label: "Glesbôggda"
-				detail: "<p style='width: 200px;'><b>Glesbôggda</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: GLE, Postnummer: 535X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Glesbôggda' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Glesbôggda</b> är en stad på 90gQ Trusted. Staden grundades 18 december 2023 av Henkan, Hoppsan, Hundmos, JidOsc, Naetilus, PumparN, & WikiRaze. Staden ägs av Glesbôggdas medborgare, och styrs som en enhetsstatlig absolut diktatoriskt rådsstyre. Kod: GLE, Postnummer: 535X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Glesbôggda' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -340,7 +329,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 4845, y: 64, z: 6755}
 				label: "Erlendur"
-				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av BlobfiskenBob. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av BlobfiskenBob. Staden ägs av BlobfiskenBob, och styrs som en OKÄND. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -349,9 +338,9 @@ marker-sets: {
 				max-distance: 10000000}
 			Shikaku:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −7951, y: 64, z: 6154}
 				label: "Shikaku"
-				detail: "<p style='width: 200px;'><b>Shikaku</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: SHI, Postnummer: 541X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Shikaku' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Shikaku</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Naetilus. Staden ägs av Kung Naetilus av Shikaku, och styrs som en OKÄND. Kod: SHI, Postnummer: 541X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Shikaku' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -362,8 +351,4130 @@ marker-sets: {
 				type:"poi"
 				position:{x: 7275, y: 64, z: 875}
 				label: "Frunkelby"
-				detail: "<p style='width: 200px;'><b>Frunkelby</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Oscarpow3r. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: OKÄND, Postnummer: OKÄND. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Frunkelby' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Frunkelby</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Oscarpow3r. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: FRU, Postnummer: 521X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Frunkelby' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			}}
+	Cities-markers: {
+		label:"Asufaruto"
+		toggleable: true
+		default-hidden: false
+		sorting: 0
+
+	markers:{
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1935, y: 64, z: 774}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2023, y: 64, z: 666}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1801, y: 64, z: 831}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1772, y: 64, z: 799}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1699, y: 64, z: 782}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Hexagon Inc. På adressen finns Hexagon Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1787, y: 64, z: 827}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Tessiro. På adressen finns Tessiro"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2067, y: 64, z: 846}
+				label: "~ ingen adress #, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2111 Centrum</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1913, y: 64, z: 799}
+				label: "Ambassadsgatan 2, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 2, 2111 Centrum</b> ägs av Birchesters stat. På adressen finns Birchesters stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1927, y: 64, z: 799}
+				label: "Ambassadsgatan 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 4, 2111 Centrum</b> ägs av Mög. På adressen finns Mög"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1940, y: 64, z: 803}
+				label: "Ambassadsgatan 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 5, 2111 Centrum</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1929, y: 64, z: 811}
+				label: "Ambassadsgatan 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 6, 2111 Centrum</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1940, y: 64, z: 808}
+				label: "Ambassadsgatan 7, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 7, 2111 Centrum</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1918, y: 64, z: 820}
+				label: "Ambassadsgatan 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 8, 2111 Centrum</b> ägs av Kimono Inc. På adressen finns Kimono Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1928, y: 64, z: 854}
+				label: "Ambassadsgatan 19, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 19, 2111 Centrum</b> ägs av AlvWorks. På adressen finns AlvWorks"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1974, y: 64, z: 761}
+				label: "Borgmästargatan 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 1, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1991, y: 64, z: 779}
+				label: "Borgmästargatan 2, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 2, 2111 Centrum</b> ägs av Hundmos Inc. På adressen finns Hundmos Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1958, y: 64, z: 783}
+				label: "Borgmästargatan 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 3, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1986, y: 64, z: 793}
+				label: "Borgmästargatan 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 4, 2111 Centrum</b> ägs av WikiRaze. På adressen finns WikiRaze"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1952, y: 64, z: 779}
+				label: "Borgmästargatan 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 5, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1973, y: 64, z: 787}
+				label: "Borgmästargatan 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 6, 2111 Centrum</b> ägs av Trusted Express Co.. På adressen finns Trusted Express Co."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1954, y: 64, z: 796}
+				label: "Borgmästargatan 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 8, 2111 Centrum</b> ägs av Henkan. På adressen finns Henkan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1956, y: 64, z: 787}
+				label: "Borgmästargatan 10, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 10, 2111 Centrum</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1949, y: 64, z: 787}
+				label: "Borgmästargatan 10,5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 10,5, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1936, y: 64, z: 786}
+				label: "Borgmästargatan 12, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 12, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1925, y: 64, z: 783}
+				label: "Borgmästargatan 14, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 14, 2111 Centrum</b> ägs av Henkan. På adressen finns Henkan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1921, y: 64, z: 783}
+				label: "Borgmästargatan 16, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 16, 2111 Centrum</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1906, y: 64, z: 799}
+				label: "Borgmästargatan 18, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Borgmästargatan 18, 2111 Centrum</b> ägs av Bjoz. På adressen finns Bjoz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1879, y: 64, z: 767}
+				label: "Finska gatan 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Finska gatan 1, 2111 Centrum</b> ägs av Kimono Insurance. På adressen finns Kimono Insurance"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1885, y: 64, z: 819}
+				label: "Finska gatan 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Finska gatan 3, 2111 Centrum</b> ägs av Sussiga saker. På adressen finns Sussiga saker"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1892, y: 64, z: 828}
+				label: "Finska gatan 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Finska gatan 5, 2111 Centrum</b> ägs av Vi gör gräset grönare på din sida AB. På adressen finns Vi gör gräset grönare på din sida AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1887, y: 64, z: 872}
+				label: "Finska gatan 9, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Finska gatan 9, 2111 Centrum</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1932, y: 64, z: 769}
+				label: "Kontorskorridoren 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Kontorskorridoren 1, 2111 Centrum</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1919, y: 64, z: 767}
+				label: "Kontorskorridoren 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Kontorskorridoren 3, 2111 Centrum</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1911, y: 64, z: 766}
+				label: "Kontorskorridoren 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Kontorskorridoren 5, 2111 Centrum</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1769, y: 64, z: 708}
+				label: "Omloppsbanan 9, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Omloppsbanan 9, 2111 Centrum</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1729, y: 64, z: 720}
+				label: "Omloppsbanan 13, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Omloppsbanan 13, 2111 Centrum</b> ägs av Braxen. På adressen finns Braxen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2120, y: 64, z: 824}
+				label: "Palatsutsikten 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 1, 2111 Centrum</b> ägs av TheBlueHexagon. På adressen finns TheBlueHexagon"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2111, y: 64, z: 809}
+				label: "Palatsutsikten 2, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 2, 2111 Centrum</b> ägs av Arrebarre04. På adressen finns Arrebarre04"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2114, y: 64, z: 789}
+				label: "Palatsutsikten 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 3, 2111 Centrum</b> ägs av Bergettneo. På adressen finns Bergettneo"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2109, y: 64, z: 789}
+				label: "Palatsutsikten 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 4, 2111 Centrum</b> ägs av Jesus Björkman. På adressen finns Jesus Björkman"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2108, y: 64, z: 767}
+				label: "Palatsutsikten 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 6, 2111 Centrum</b> ägs av Cnapris. På adressen finns Cnapris"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2091, y: 64, z: 747}
+				label: "Palatsutsikten 6,5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 6,5, 2111 Centrum</b> ägs av Kollektivet. På adressen finns Kollektivet"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2121, y: 64, z: 748}
+				label: "Palatsutsikten 7, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 7, 2111 Centrum</b> ägs av Asufarutos Skola. På adressen finns Asufarutos Skola"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2055, y: 64, z: 739}
+				label: "Palatsutsikten 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 8, 2111 Centrum</b> ägs av Myggi_alex. På adressen finns Myggi_alex"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2114, y: 64, z: 739}
+				label: "Palatsutsikten 9, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 9, 2111 Centrum</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2119, y: 64, z: 735}
+				label: "Palatsutsikten 11, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 11, 2111 Centrum</b> ägs av Hundmos & Ivy. På adressen finns Hundmos & Ivy"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2091, y: 64, z: 720}
+				label: "Palatsutsikten 13, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 13, 2111 Centrum</b> ägs av Kollektivet. På adressen finns Kollektivet"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2087, y: 64, z: 740}
+				label: "Palatsutsikten 15, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 15, 2111 Centrum</b> ägs av Fooxie. På adressen finns Fooxie"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2062, y: 64, z: 701}
+				label: "Palatsutsikten 19, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 19, 2111 Centrum</b> ägs av Hugge. På adressen finns Hugge"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2064, y: 64, z: 602}
+				label: "Palatsutsikten 20, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 20, 2111 Centrum</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2061, y: 64, z: 656}
+				label: "Palatsutsikten 21, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 21, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2054, y: 64, z: 588}
+				label: "Palatsutsikten 22, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 22, 2111 Centrum</b> ägs av Braxen. På adressen finns Braxen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2054, y: 64, z: 644}
+				label: "Palatsutsikten 23, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 23, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2055, y: 64, z: 619}
+				label: "Palatsutsikten 25, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 25, 2111 Centrum</b> ägs av TheTaurusTv. På adressen finns TheTaurusTv"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2071, y: 64, z: 620}
+				label: "Palatsutsikten 27, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 27, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2070, y: 64, z: 590}
+				label: "Palatsutsikten 31, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 31, 2111 Centrum</b> ägs av Lwsplukas. På adressen finns Lwsplukas"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2035, y: 64, z: 733}
+				label: "Paralellen 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Paralellen 4, 2111 Centrum</b> ägs av Vigge. På adressen finns Vigge"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2038, y: 64, z: 758}
+				label: "Paralellen 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Paralellen 6, 2111 Centrum</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1763, y: 64, z: 832}
+				label: "Ringvägen 11, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Ringvägen 11, 2111 Centrum</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1817, y: 64, z: 708}
+				label: "Sandblocksallén 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sandblocksallén 6, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1823, y: 64, z: 700}
+				label: "Sandblocksallén 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sandblocksallén 8, 2111 Centrum</b> ägs av Little_Fox. På adressen finns Little_Fox"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1831, y: 64, z: 650}
+				label: "Sandblocksallén 12, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sandblocksallén 12, 2111 Centrum</b> ägs av Lwsplukas. På adressen finns Lwsplukas"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1901, y: 64, z: 773}
+				label: "Slottsvägen 2, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 2, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1870, y: 64, z: 742}
+				label: "Slottsvägen 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 6, 2111 Centrum</b> ägs av Chippen. På adressen finns Chippen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1883, y: 64, z: 694}
+				label: "Slottsvägen 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 8, 2111 Centrum</b> ägs av Paulis & Juno. På adressen finns Paulis & Juno"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1853, y: 64, z: 713}
+				label: "Slottsvägen 10, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 10, 2111 Centrum</b> ägs av Arrebarre04. På adressen finns Arrebarre04"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1826, y: 64, z: 752}
+				label: "Slottsvägen 12, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 12, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1836, y: 64, z: 770}
+				label: "Slottsvägen 14, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 14, 2111 Centrum</b> ägs av Paulisibella. På adressen finns Paulisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1812, y: 64, z: 786}
+				label: "Slottsvägen 16, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 16, 2111 Centrum</b> ägs av Emberfox. På adressen finns Emberfox"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1853, y: 64, z: 783}
+				label: "Slottsvägen 18, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Slottsvägen 18, 2111 Centrum</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2042, y: 64, z: 709}
+				label: "Sprängparken 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängparken 1, 2111 Centrum</b> ägs av Mizuii. På adressen finns Mizuii"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2032, y: 64, z: 694}
+				label: "Sprängparken 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängparken 3, 2111 Centrum</b> ägs av Magnomeister. På adressen finns Magnomeister"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2028, y: 64, z: 712}
+				label: "Sprängparken 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängparken 4, 2111 Centrum</b> ägs av Miniun. På adressen finns Miniun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2006, y: 64, z: 735}
+				label: "Sprängvägen 1, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 1, 2111 Centrum</b> ägs av Arrebarre04. På adressen finns Arrebarre04"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1998, y: 64, z: 744}
+				label: "Sprängvägen 2, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 2, 2111 Centrum</b> ägs av AlvWorks. På adressen finns AlvWorks"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2004, y: 64, z: 723}
+				label: "Sprängvägen 3, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 3, 2111 Centrum</b> ägs av IKBH. På adressen finns IKBH"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1987, y: 64, z: 727}
+				label: "Sprängvägen 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 4, 2111 Centrum</b> ägs av Försvarsmakten AB. På adressen finns Försvarsmakten AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2004, y: 64, z: 712}
+				label: "Sprängvägen 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 5, 2111 Centrum</b> ägs av AlvWorks. På adressen finns AlvWorks"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1995, y: 64, z: 710}
+				label: "Sprängvägen 6, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 6, 2111 Centrum</b> ägs av Hundmos Inc. På adressen finns Hundmos Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2000, y: 64, z: 699}
+				label: "Sprängvägen 7, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 7, 2111 Centrum</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1977, y: 64, z: 707}
+				label: "Sprängvägen 8, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 8, 2111 Centrum</b> ägs av Tant Mymir. På adressen finns Tant Mymir"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2003, y: 64, z: 759}
+				label: "Sprängvägen 11, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 11, 2111 Centrum</b> ägs av Kimono Commerce. På adressen finns Kimono Commerce"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1980, y: 64, z: 654}
+				label: "Sprängvägen 12, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 12, 2111 Centrum</b> ägs av Magnomeister. På adressen finns Magnomeister"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2032, y: 64, z: 623}
+				label: "Sprängvägen 18, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Sprängvägen 18, 2111 Centrum</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1998, y: 64, z: 793}
+				label: "Vintergatan 4, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 4, 2111 Centrum</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2024, y: 64, z: 788}
+				label: "Vintergatan 5, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 5, 2111 Centrum</b> ägs av Magno & Arre. På adressen finns Magno & Arre"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1998, y: 64, z: 780}
+				label: "Vintergatan 7, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 7, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2011, y: 64, z: 753}
+				label: "Vintergatan 9, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 9, 2111 Centrum</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 735}
+				label: "Vintergatan 15, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 15, 2111 Centrum</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1953, y: 64, z: 740}
+				label: "Vintergatan 17, 2111 Centrum"
+				detail: "<p style='width: 200px;'><b>Vintergatan 17, 2111 Centrum</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2202, y: 64, z: 541}
+				label: "~ ingen adress #, 2112 Saroy"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2112 Saroy</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2206, y: 64, z: 703}
+				label: "Palatsutsikten 5, 2112 Saroy"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 5, 2112 Saroy</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1957, y: 64, z: 616}
+				label: "Strömleden 10, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Strömleden 10, 2113 Nordön</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1961, y: 64, z: 584}
+				label: "Strömleden 12, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Strömleden 12, 2113 Nordön</b> ägs av Magnomeister. På adressen finns Magnomeister"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1985, y: 64, z: 589}
+				label: "Strömleden 14, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Strömleden 14, 2113 Nordön</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1923, y: 64, z: 733}
+				label: "Vintergatan 12, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 12, 2113 Nordön</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1923, y: 64, z: 716}
+				label: "Vintergatan 14, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 14, 2113 Nordön</b> ägs av Paulisibella. På adressen finns Paulisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1930, y: 64, z: 715}
+				label: "Vintergatan 21, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 21, 2113 Nordön</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1930, y: 64, z: 707}
+				label: "Vintergatan 23, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 23, 2113 Nordön</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1937, y: 64, z: 677}
+				label: "Vintergatan 25, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 25, 2113 Nordön</b> ägs av Reezey. På adressen finns Reezey"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1900, y: 64, z: 554}
+				label: "Vintergatan 28, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 28, 2113 Nordön</b> ägs av Seves. På adressen finns Seves"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1894, y: 64, z: 603}
+				label: "Vintergatan 33, 2113 Nordön"
+				detail: "<p style='width: 200px;'><b>Vintergatan 33, 2113 Nordön</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2058, y: 64, z: 463}
+				label: "~ ingen adress #, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2114 Vinterbyn</b> ägs av Paulisibella. På adressen finns Paulisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2027, y: 64, z: 447}
+				label: "~ ingen adress #, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2114 Vinterbyn</b> ägs av naetilus & Juno. På adressen finns naetilus & Juno"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2035, y: 64, z: 413}
+				label: "~ ingen adress #, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2114 Vinterbyn</b> ägs av ?. På adressen finns ?"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1992, y: 64, z: 445}
+				label: "~ ingen adress #, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2114 Vinterbyn</b> ägs av ?. På adressen finns ?"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2041, y: 64, z: 541}
+				label: "Palatsutsikten 26, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 26, 2114 Vinterbyn</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2035, y: 64, z: 513}
+				label: "Palatsutsikten 37, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Palatsutsikten 37, 2114 Vinterbyn</b> ägs av Catsinthetown. På adressen finns Catsinthetown"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2007, y: 64, z: 499}
+				label: "Skidspåret 1, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 1, 2114 Vinterbyn</b> ägs av WihaQwQ. På adressen finns WihaQwQ"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1998, y: 64, z: 497}
+				label: "Skidspåret 2, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 2, 2114 Vinterbyn</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2031, y: 64, z: 494}
+				label: "Skidspåret 3, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 3, 2114 Vinterbyn</b> ägs av Paulisibella. På adressen finns Paulisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2076, y: 64, z: 442}
+				label: "Skidspåret 5, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 5, 2114 Vinterbyn</b> ägs av SlayAngus. På adressen finns SlayAngus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2007, y: 64, z: 522}
+				label: "Skidspåret 6, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 6, 2114 Vinterbyn</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2063, y: 64, z: 500}
+				label: "Skidspåret 7, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 7, 2114 Vinterbyn</b> ägs av Oskiir. På adressen finns Oskiir"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2012, y: 64, z: 520}
+				label: "Skidspåret 8, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 8, 2114 Vinterbyn</b> ägs av Kevo. På adressen finns Kevo"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2160, y: 64, z: 338}
+				label: "Skidspåret 9, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Skidspåret 9, 2114 Vinterbyn</b> ägs av Kevo. På adressen finns Kevo"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1974, y: 64, z: 510}
+				label: "Snöstigen 3, 2114 Vinterbyn"
+				detail: "<p style='width: 200px;'><b>Snöstigen 3, 2114 Vinterbyn</b> ägs av Darkgrisen. På adressen finns Darkgrisen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2979, y: 64, z: 541}
+				label: "Glassgatan 1, 2116 Lordlandia"
+				detail: "<p style='width: 200px;'><b>Glassgatan 1, 2116 Lordlandia</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2979, y: 64, z: 563}
+				label: "Glassgatan 2, 2116 Lordlandia"
+				detail: "<p style='width: 200px;'><b>Glassgatan 2, 2116 Lordlandia</b> ägs av Oscarpower. På adressen finns Oscarpower"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2980, y: 64, z: 573}
+				label: "Glassgatan 3, 2116 Lordlandia"
+				detail: "<p style='width: 200px;'><b>Glassgatan 3, 2116 Lordlandia</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2977, y: 64, z: 572}
+				label: "Glassgatan 4, 2116 Lordlandia"
+				detail: "<p style='width: 200px;'><b>Glassgatan 4, 2116 Lordlandia</b> ägs av Professorn. På adressen finns Professorn"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1936, y: 64, z: 903}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1964, y: 64, z: 895}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1964, y: 64, z: 895}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1914, y: 64, z: 927}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av ?. På adressen finns ?"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 941}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 897}
+				label: "~ ingen adress #, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2121 Berget</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1943, y: 64, z: 872}
+				label: "Ambassadsgatan 15, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 15, 2121 Berget</b> ägs av Evvis. På adressen finns Evvis"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1939, y: 64, z: 883}
+				label: "Ambassadsgatan 17, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 17, 2121 Berget</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1904, y: 64, z: 865}
+				label: "Ambassadsgatan 21, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Ambassadsgatan 21, 2121 Berget</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2014, y: 64, z: 865}
+				label: "Brooo 1, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Brooo 1, 2121 Berget</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1944, y: 64, z: 897}
+				label: "Brooo 8, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Brooo 8, 2121 Berget</b> ägs av Tält AB. På adressen finns Tält AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1936, y: 64, z: 926}
+				label: "Propellervägen 7, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Propellervägen 7, 2121 Berget</b> ägs av Vire. På adressen finns Vire"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2009, y: 64, z: 842}
+				label: "Vintergatan 1, 2121 Berget"
+				detail: "<p style='width: 200px;'><b>Vintergatan 1, 2121 Berget</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1829, y: 64, z: 897}
+				label: "~ ingen adress #, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1805, y: 64, z: 1161}
+				label: "~ ingen adress #, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1872, y: 64, z: 857}
+				label: "Bananböjen 1, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 1, 2122 Yama</b> ägs av Chippen. På adressen finns Chippen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1848, y: 64, z: 866}
+				label: "Bananböjen 2, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 2, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1860, y: 64, z: 856}
+				label: "Bananböjen 3, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 3, 2122 Yama</b> ägs av Trusted Design. På adressen finns Trusted Design"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1839, y: 64, z: 849}
+				label: "Bananböjen 5, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 5, 2122 Yama</b> ägs av herr_vincent. På adressen finns herr_vincent"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1835, y: 64, z: 852}
+				label: "Bananböjen 7, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 7, 2122 Yama</b> ägs av Leffes Skrot. På adressen finns Leffes Skrot"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1806, y: 64, z: 857}
+				label: "Bananböjen 9, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 9, 2122 Yama</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1808, y: 64, z: 876}
+				label: "Bananböjen 11, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 11, 2122 Yama</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1813, y: 64, z: 889}
+				label: "Bananböjen 13, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 13, 2122 Yama</b> ägs av Gurkan_14. På adressen finns Gurkan_14"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1813, y: 64, z: 899}
+				label: "Bananböjen 15, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Bananböjen 15, 2122 Yama</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1886, y: 64, z: 936}
+				label: "Finska gatan 15, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 15, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1875, y: 64, z: 935}
+				label: "Finska gatan 16, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 16, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1879, y: 64, z: 965}
+				label: "Finska gatan 17, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 17, 2122 Yama</b> ägs av PineCone_5. På adressen finns PineCone_5"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1837, y: 64, z: 938}
+				label: "Finska gatan 18, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 18, 2122 Yama</b> ägs av Sussiga saker. På adressen finns Sussiga saker"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1838, y: 64, z: 932}
+				label: "Finska gatan 18,5, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 18,5, 2122 Yama</b> ägs av Nationalisterna. På adressen finns Nationalisterna"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1852, y: 64, z: 959}
+				label: "Finska gatan 19, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 19, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1827, y: 64, z: 932}
+				label: "Finska gatan 20, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 20, 2122 Yama</b> ägs av AU. På adressen finns AU"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1826, y: 64, z: 941}
+				label: "Finska gatan 21, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 21, 2122 Yama</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1803, y: 64, z: 938}
+				label: "Finska gatan 21,5, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 21,5, 2122 Yama</b> ägs av Meezy. På adressen finns Meezy"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1811, y: 64, z: 930}
+				label: "Finska gatan 22, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 22, 2122 Yama</b> ägs av Rat_96. På adressen finns Rat_96"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1796, y: 64, z: 938}
+				label: "Finska gatan 23, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 23, 2122 Yama</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1791, y: 64, z: 932}
+				label: "Finska gatan 24, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 24, 2122 Yama</b> ägs av Nordfali. På adressen finns Nordfali"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1775, y: 64, z: 958}
+				label: "Finska gatan 25, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Finska gatan 25, 2122 Yama</b> ägs av Melinanka. På adressen finns Melinanka"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1873, y: 64, z: 985}
+				label: "Propellervägen 12, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>Propellervägen 12, 2122 Yama</b> ägs av Deluxerpanda. På adressen finns Deluxerpanda"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1838, y: 64, z: 981}
+				label: "U-svängen 3, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 3, 2122 Yama</b> ägs av Eddy. På adressen finns Eddy"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1825, y: 64, z: 1012}
+				label: "U-svängen 6, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 6, 2122 Yama</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1842, y: 64, z: 1046}
+				label: "U-svängen 7, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 7, 2122 Yama</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1829, y: 64, z: 1050}
+				label: "U-svängen 9, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 9, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1795, y: 64, z: 970}
+				label: "U-svängen 10, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 10, 2122 Yama</b> ägs av Ozzy. På adressen finns Ozzy"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1825, y: 64, z: 1102}
+				label: "U-svängen 11, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 11, 2122 Yama</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1805, y: 64, z: 1123}
+				label: "U-svängen 13, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 13, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1793, y: 64, z: 1090}
+				label: "U-svängen 15, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 15, 2122 Yama</b> ägs av TLP. På adressen finns TLP"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1785, y: 64, z: 1054}
+				label: "U-svängen 17, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 17, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1797, y: 64, z: 993}
+				label: "U-svängen 21, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 21, 2122 Yama</b> ägs av AU. På adressen finns AU"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1774, y: 64, z: 978}
+				label: "U-svängen 23, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 23, 2122 Yama</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1751, y: 64, z: 954}
+				label: "U-svängen 27, 2122 Yama"
+				detail: "<p style='width: 200px;'><b>U-svängen 27, 2122 Yama</b> ägs av Crazy_dynamite. På adressen finns Crazy_dynamite"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1490, y: 64, z: 963}
+				label: "~ ingen adress #, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2123 Hamnen</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1679, y: 64, z: 897}
+				label: "Hamngatan 7, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 7, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1665, y: 64, z: 890}
+				label: "Hamngatan 9, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 9, 2123 Hamnen</b> ägs av Lwsplukas. På adressen finns Lwsplukas"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1595, y: 64, z: 905}
+				label: "Hamngatan 15, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 15, 2123 Hamnen</b> ägs av PandaKvantum. På adressen finns PandaKvantum"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1537, y: 64, z: 961}
+				label: "Hamngatan 23, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 23, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1458, y: 64, z: 960}
+				label: "Hamngatan 29, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 29, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1498, y: 64, z: 892}
+				label: "Hamngatan 31, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Hamngatan 31, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1733, y: 64, z: 932}
+				label: "Ringvägen 2, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Ringvägen 2, 2123 Hamnen</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1762, y: 64, z: 905}
+				label: "Ringvägen 4, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Ringvägen 4, 2123 Hamnen</b> ägs av Hoppsan. På adressen finns Hoppsan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1610, y: 64, z: 898}
+				label: "Skolvägen 1, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Skolvägen 1, 2123 Hamnen</b> ägs av Acke0827. På adressen finns Acke0827"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1588, y: 64, z: 886}
+				label: "Skolvägen 3, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Skolvägen 3, 2123 Hamnen</b> ägs av MsMelle. På adressen finns MsMelle"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1561, y: 64, z: 890}
+				label: "Skolvägen 7, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Skolvägen 7, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1569, y: 64, z: 895}
+				label: "Skolvägen 9, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Skolvägen 9, 2123 Hamnen</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1571, y: 64, z: 924}
+				label: "Skolvägen 11, 2123 Hamnen"
+				detail: "<p style='width: 200px;'><b>Skolvägen 11, 2123 Hamnen</b> ägs av ASA. På adressen finns ASA"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1960, y: 64, z: 991}
+				label: "Propellervägen 1, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 1, 2124 Craftopia</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1949, y: 64, z: 990}
+				label: "Propellervägen 2, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 2, 2124 Craftopia</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1952, y: 64, z: 990}
+				label: "Propellervägen 3, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 3, 2124 Craftopia</b> ägs av Magnomeister. På adressen finns Magnomeister"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1940, y: 64, z: 990}
+				label: "Propellervägen 4, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 4, 2124 Craftopia</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1943, y: 64, z: 990}
+				label: "Propellervägen 5, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 5, 2124 Craftopia</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1935, y: 64, z: 990}
+				label: "Propellervägen 6, 2124 Craftopia"
+				detail: "<p style='width: 200px;'><b>Propellervägen 6, 2124 Craftopia</b> ägs av JidOsc. På adressen finns JidOsc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2028, y: 64, z: 941}
+				label: "~ ingen adress #, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2125 Skyskrapedistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2038, y: 64, z: 964}
+				label: "Långa höga gatan 1, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Långa höga gatan 1, 2125 Skyskrapedistriktet</b> ägs av Alexeonder. På adressen finns Alexeonder"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2080, y: 64, z: 969}
+				label: "Långa höga gatan 4, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Långa höga gatan 4, 2125 Skyskrapedistriktet</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2123, y: 64, z: 964}
+				label: "Långa höga gatan 9, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Långa höga gatan 9, 2125 Skyskrapedistriktet</b> ägs av Bjoz. På adressen finns Bjoz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2120, y: 64, z: 973}
+				label: "Strängvägen 1, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Strängvägen 1, 2125 Skyskrapedistriktet</b> ägs av ?. På adressen finns ?"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2043, y: 64, z: 937}
+				label: "Vattentornsvägen 1, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vattentornsvägen 1, 2125 Skyskrapedistriktet</b> ägs av Snichard. På adressen finns Snichard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2064, y: 64, z: 927}
+				label: "Vattentornsvägen 4, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vattentornsvägen 4, 2125 Skyskrapedistriktet</b> ägs av Bananajaveln. På adressen finns Bananajaveln"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2078, y: 64, z: 931}
+				label: "Vattentornsvägen 6, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vattentornsvägen 6, 2125 Skyskrapedistriktet</b> ägs av Hundmos. På adressen finns Hundmos"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2123, y: 64, z: 936}
+				label: "Vattentornsvägen 9, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vattentornsvägen 9, 2125 Skyskrapedistriktet</b> ägs av Bjoz. På adressen finns Bjoz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2093, y: 64, z: 913}
+				label: "Vattentornsvägen 12, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vattentornsvägen 12, 2125 Skyskrapedistriktet</b> ägs av Henkan. På adressen finns Henkan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2101, y: 64, z: 974}
+				label: "Vinkelvolten 1, 2125 Skyskrapedistriktet"
+				detail: "<p style='width: 200px;'><b>Vinkelvolten 1, 2125 Skyskrapedistriktet</b> ägs av arrebarre04. På adressen finns arrebarre04"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1897, y: 64, z: 1161}
+				label: "~ ingen adress #, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 1161}
+				label: "~ ingen adress #, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 1287}
+				label: "~ ingen adress #, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1993, y: 64, z: 1237}
+				label: "Engelska gatan 2, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 2, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1953, y: 64, z: 1235}
+				label: "Engelska gatan 4, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 4, 2131 Gamla Stan</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1930, y: 64, z: 1235}
+				label: "Engelska gatan 6, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 6, 2131 Gamla Stan</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1918, y: 64, z: 1233}
+				label: "Engelska gatan 8, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 8, 2131 Gamla Stan</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1908, y: 64, z: 1234}
+				label: "Engelska gatan 10, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 10, 2131 Gamla Stan</b> ägs av Bussens lägenheter AB. På adressen finns Bussens lägenheter AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1795, y: 64, z: 1258}
+				label: "Engelska gatan 10, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 10, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1828, y: 64, z: 1235}
+				label: "Engelska gatan 16, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 16, 2131 Gamla Stan</b> ägs av Arbetarrörelsen. På adressen finns Arbetarrörelsen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1923, y: 64, z: 1194}
+				label: "Fabriksgatan 10, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Fabriksgatan 10, 2131 Gamla Stan</b> ägs av JidOsc. På adressen finns JidOsc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1870, y: 64, z: 1191}
+				label: "Fabriksgatan 12, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Fabriksgatan 12, 2131 Gamla Stan</b> ägs av Kfk. På adressen finns Kfk"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2034, y: 64, z: 1234}
+				label: "Fyrgatan 2, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Fyrgatan 2, 2131 Gamla Stan</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2095, y: 64, z: 1255}
+				label: "Fyrgatan 7, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Fyrgatan 7, 2131 Gamla Stan</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2017, y: 64, z: 1199}
+				label: "Käppgatan 1, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Käppgatan 1, 2131 Gamla Stan</b> ägs av Röda Flaggan International. På adressen finns Röda Flaggan International"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1978, y: 64, z: 1208}
+				label: "Parkgatan 3, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Parkgatan 3, 2131 Gamla Stan</b> ägs av Paulisibella. På adressen finns Paulisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1935, y: 64, z: 1155}
+				label: "Tunnelgatan 1, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 1, 2131 Gamla Stan</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1940, y: 64, z: 1167}
+				label: "Tunnelgatan 2, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 2, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1897, y: 64, z: 1150}
+				label: "Tunnelgatan 3, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 3, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1901, y: 64, z: 1166}
+				label: "Tunnelgatan 6, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 6, 2131 Gamla Stan</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1882, y: 64, z: 1170}
+				label: "Tunnelgatan 12, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 12, 2131 Gamla Stan</b> ägs av Herminator. På adressen finns Herminator"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1882, y: 64, z: 1170}
+				label: "Tunnelgatan 14, 2131 Gamla Stan"
+				detail: "<p style='width: 200px;'><b>Tunnelgatan 14, 2131 Gamla Stan</b> ägs av Algorit. På adressen finns Algorit"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1971, y: 64, z: 1051}
+				label: "~ ingen adress #, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2132 Östermalm</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2111, y: 64, z: 1139}
+				label: "Pilvägen 3, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Pilvägen 3, 2132 Östermalm</b> ägs av Mollo_70. På adressen finns Mollo_70"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2077, y: 64, z: 1161}
+				label: "Östra kustgatan 1, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 1, 2132 Östermalm</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2075, y: 64, z: 1179}
+				label: "Östra kustgatan 3, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 3, 2132 Östermalm</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2148, y: 64, z: 1216}
+				label: "Östra kustgatan 7, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 7, 2132 Östermalm</b> ägs av Lwsplukas. På adressen finns Lwsplukas"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2141, y: 64, z: 1129}
+				label: "Östra kustgatan 13, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 13, 2132 Östermalm</b> ägs av PPON. På adressen finns PPON"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2145, y: 64, z: 1099}
+				label: "Östra kustgatan 15, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 15, 2132 Östermalm</b> ägs av Vinz. På adressen finns Vinz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2057, y: 64, z: 1118}
+				label: "Östra kustgatan 21, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 21, 2132 Östermalm</b> ägs av Alexeonder. På adressen finns Alexeonder"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2159, y: 64, z: 1073}
+				label: "Östra kustgatan 48, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 48, 2132 Östermalm</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2011, y: 64, z: 1056}
+				label: "Östra kustgatan 54, 2132 Östermalm"
+				detail: "<p style='width: 200px;'><b>Östra kustgatan 54, 2132 Östermalm</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1698, y: 64, z: 998}
+				label: "~ ingen adress #, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2133 Shoppingdistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1653, y: 64, z: 1039}
+				label: "~ ingen adress #, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2133 Shoppingdistriktet</b> ägs av Ek-Ea. På adressen finns Ek-Ea"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1595, y: 64, z: 1055}
+				label: "~ ingen adress #, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2133 Shoppingdistriktet</b> ägs av Kommande vågor. På adressen finns Kommande vågor"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1636, y: 64, z: 1094}
+				label: "~ ingen adress #, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2133 Shoppingdistriktet</b> ägs av Robotgods AB. På adressen finns Robotgods AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1481, y: 64, z: 1113}
+				label: "~ ingen adress #, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2133 Shoppingdistriktet</b> ägs av Diastore. På adressen finns Diastore"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1603, y: 64, z: 1057}
+				label: "Brogatan 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 1, 2133 Shoppingdistriktet</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1578, y: 64, z: 1038}
+				label: "Brogatan 2,5, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 2,5, 2133 Shoppingdistriktet</b> ägs av Woolio. På adressen finns Woolio"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1612, y: 64, z: 1020}
+				label: "Brogatan 3, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 3, 2133 Shoppingdistriktet</b> ägs av Texo AB. På adressen finns Texo AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1594, y: 64, z: 1024}
+				label: "Brogatan 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 4, 2133 Shoppingdistriktet</b> ägs av Din Lokala Handel. På adressen finns Din Lokala Handel"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1689, y: 64, z: 996}
+				label: "Brogatan 12, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 12, 2133 Shoppingdistriktet</b> ägs av Sussiga saker. På adressen finns Sussiga saker"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1698, y: 64, z: 1017}
+				label: "Brogatan 13, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 13, 2133 Shoppingdistriktet</b> ägs av Gurkshop AB. På adressen finns Gurkshop AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1695, y: 64, z: 977}
+				label: "Brogatan 15, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Brogatan 15, 2133 Shoppingdistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1565, y: 64, z: 1215}
+				label: "Kroken 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Kroken 1, 2133 Shoppingdistriktet</b> ägs av Yoshiki. På adressen finns Yoshiki"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1597, y: 64, z: 1232}
+				label: "Kroken 6, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Kroken 6, 2133 Shoppingdistriktet</b> ägs av MTC. På adressen finns MTC"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1610, y: 64, z: 1232}
+				label: "Kroken 8, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Kroken 8, 2133 Shoppingdistriktet</b> ägs av Catsinthetown. På adressen finns Catsinthetown"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1581, y: 64, z: 1141}
+				label: "Köp- & Säljgatan 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 2, 2133 Shoppingdistriktet</b> ägs av Bussen & Rat. På adressen finns Bussen & Rat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1630, y: 64, z: 1141}
+				label: "Köp- & Säljgatan 8, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 8, 2133 Shoppingdistriktet</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1641, y: 64, z: 1138}
+				label: "Köp- & Säljgatan 9, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 9, 2133 Shoppingdistriktet</b> ägs av Random AB. På adressen finns Random AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1645, y: 64, z: 1189}
+				label: "Köp- & Säljgatan 10, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 10, 2133 Shoppingdistriktet</b> ägs av Kartläggarna AB. På adressen finns Kartläggarna AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1663, y: 64, z: 1156}
+				label: "Köp- & Säljgatan 11, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 11, 2133 Shoppingdistriktet</b> ägs av Alt. Inc.. På adressen finns Alt. Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1669, y: 64, z: 1129}
+				label: "Köpmannagatan 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 2, 2133 Shoppingdistriktet</b> ägs av Cats Blommor. På adressen finns Cats Blommor"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1692, y: 64, z: 1128}
+				label: "Köpmannagatan 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 4, 2133 Shoppingdistriktet</b> ägs av Valore Inc.. På adressen finns Valore Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1680, y: 64, z: 1198}
+				label: "Köpmannagatan 11, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 11, 2133 Shoppingdistriktet</b> ägs av Biltema mini. På adressen finns Biltema mini"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1663, y: 64, z: 1208}
+				label: "Köpmannagatan 13, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 13, 2133 Shoppingdistriktet</b> ägs av Vire. På adressen finns Vire"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1638, y: 64, z: 1212}
+				label: "Köpmannagatan 15, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 15, 2133 Shoppingdistriktet</b> ägs av Hexagon Inc.. På adressen finns Hexagon Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1603, y: 64, z: 1202}
+				label: "Köpmannagatan 16, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 16, 2133 Shoppingdistriktet</b> ägs av Acke IND.. På adressen finns Acke IND."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1625, y: 64, z: 1211}
+				label: "Köpmannagatan 17, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 17, 2133 Shoppingdistriktet</b> ägs av Paulis AB. På adressen finns Paulis AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1570, y: 64, z: 1190}
+				label: "Köpmannagatan 18, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 18, 2133 Shoppingdistriktet</b> ägs av Ninja AB. På adressen finns Ninja AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1603, y: 64, z: 1211}
+				label: "Köpmannagatan 19, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 19, 2133 Shoppingdistriktet</b> ägs av Maggard Inc. På adressen finns Maggard Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1590, y: 64, z: 1209}
+				label: "Köpmannagatan 21, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 21, 2133 Shoppingdistriktet</b> ägs av Flaggor AB. På adressen finns Flaggor AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1568, y: 64, z: 1161}
+				label: "Köpmannagatan 22, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 22, 2133 Shoppingdistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1555, y: 64, z: 1148}
+				label: "Köpmannagatan 27, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 27, 2133 Shoppingdistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1561, y: 64, z: 1205}
+				label: "Köpmannagatan 31, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Köpmannagatan 31, 2133 Shoppingdistriktet</b> ägs av Dark_Moonight. På adressen finns Dark_Moonight"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1503, y: 64, z: 1111}
+				label: "Moyaistigen 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Moyaistigen 1, 2133 Shoppingdistriktet</b> ägs av Juno & Paulis. På adressen finns Juno & Paulis"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1508, y: 64, z: 1069}
+				label: "Ostgatan 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Ostgatan 2, 2133 Shoppingdistriktet</b> ägs av Mapmakers. På adressen finns Mapmakers"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1510, y: 64, z: 1061}
+				label: "Ostgatan 3, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Ostgatan 3, 2133 Shoppingdistriktet</b> ägs av Musical Maps. På adressen finns Musical Maps"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1489, y: 64, z: 1068}
+				label: "Ostgatan 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Ostgatan 4, 2133 Shoppingdistriktet</b> ägs av ItzAnte. På adressen finns ItzAnte"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1467, y: 64, z: 1068}
+				label: "Ostgatan 6, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Ostgatan 6, 2133 Shoppingdistriktet</b> ägs av Kevo. På adressen finns Kevo"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1622, y: 64, z: 1113}
+				label: "Quidparken 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Quidparken 1, 2133 Shoppingdistriktet</b> ägs av Omnium Inc. På adressen finns Omnium Inc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1561, y: 64, z: 1109}
+				label: "Quidparken 5, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Quidparken 5, 2133 Shoppingdistriktet</b> ägs av Aneran Corp.. På adressen finns Aneran Corp."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1519, y: 64, z: 1130}
+				label: "Quidparken 9, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Quidparken 9, 2133 Shoppingdistriktet</b> ägs av Moyai AB. På adressen finns Moyai AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1549, y: 64, z: 1182}
+				label: "Quidparken 17, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Quidparken 17, 2133 Shoppingdistriktet</b> ägs av Bjoz Inc.. På adressen finns Bjoz Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1534, y: 64, z: 1077}
+				label: "Regnbågen 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Regnbågen 2, 2133 Shoppingdistriktet</b> ägs av Döda en vän :D. På adressen finns Döda en vän :D"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1543, y: 64, z: 1046}
+				label: "Regnbågen 3, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Regnbågen 3, 2133 Shoppingdistriktet</b> ägs av Professorn Trä AB. På adressen finns Professorn Trä AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1535, y: 64, z: 1054}
+				label: "Regnbågen 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Regnbågen 4, 2133 Shoppingdistriktet</b> ägs av Brygg Inc.. På adressen finns Brygg Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1540, y: 64, z: 1014}
+				label: "Regnbågen 5, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Regnbågen 5, 2133 Shoppingdistriktet</b> ägs av Maxad. På adressen finns Maxad"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1736, y: 64, z: 1198}
+				label: "Shoppelishop 3, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Shoppelishop 3, 2133 Shoppingdistriktet</b> ägs av Papperot. På adressen finns Papperot"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1618, y: 64, z: 1124}
+				label: "Slingerslangen 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Slingerslangen 1, 2133 Shoppingdistriktet</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1638, y: 64, z: 960}
+				label: "Snabbmatskedjan 1, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 1, 2133 Shoppingdistriktet</b> ägs av WikiRaze. På adressen finns WikiRaze"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1614, y: 64, z: 1006}
+				label: "Snabbmatskedjan 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 2, 2133 Shoppingdistriktet</b> ägs av Bath tub AB. På adressen finns Bath tub AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1606, y: 64, z: 973}
+				label: "Snabbmatskedjan 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 4, 2133 Shoppingdistriktet</b> ägs av Kungoscar. På adressen finns Kungoscar"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1632, y: 64, z: 963}
+				label: "Snabbmatskedjan 6, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 6, 2133 Shoppingdistriktet</b> ägs av MoyOngaku. På adressen finns MoyOngaku"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1650, y: 64, z: 972}
+				label: "Snabbmatskedjan 8, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 8, 2133 Shoppingdistriktet</b> ägs av Arres In och Utredning. På adressen finns Arres In och Utredning"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1678, y: 64, z: 974}
+				label: "Snabbmatskedjan 10, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Snabbmatskedjan 10, 2133 Shoppingdistriktet</b> ägs av Lwsp-Shop. På adressen finns Lwsp-Shop"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1535, y: 64, z: 1095}
+				label: "Stolsvägen 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 2, 2133 Shoppingdistriktet</b> ägs av Postbolaget. På adressen finns Postbolaget"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1541, y: 64, z: 1086}
+				label: "Stolsvägen 3, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 3, 2133 Shoppingdistriktet</b> ägs av Affären AB. På adressen finns Affären AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1562, y: 64, z: 1080}
+				label: "Stolsvägen 5, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 5, 2133 Shoppingdistriktet</b> ägs av Diastore. På adressen finns Diastore"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1557, y: 64, z: 1072}
+				label: "Stolsvägen 6, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 6, 2133 Shoppingdistriktet</b> ägs av Materia AB. På adressen finns Materia AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1572, y: 64, z: 1080}
+				label: "Stolsvägen 7, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 7, 2133 Shoppingdistriktet</b> ägs av WIH. På adressen finns WIH"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1576, y: 64, z: 1074}
+				label: "Stolsvägen 8, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 8, 2133 Shoppingdistriktet</b> ägs av Apple. På adressen finns Apple"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1632, y: 64, z: 1068}
+				label: "Stolsvägen 12, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 12, 2133 Shoppingdistriktet</b> ägs av Alt. Inc.. På adressen finns Alt. Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1648, y: 64, z: 1085}
+				label: "Stolsvägen 13, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 13, 2133 Shoppingdistriktet</b> ägs av Arres In och Utredning. På adressen finns Arres In och Utredning"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1667, y: 64, z: 1076}
+				label: "Stolsvägen 15, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 15, 2133 Shoppingdistriktet</b> ägs av Mostefe Inc.. På adressen finns Mostefe Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1672, y: 64, z: 1040}
+				label: "Stolsvägen 17, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Stolsvägen 17, 2133 Shoppingdistriktet</b> ägs av Euro Store. På adressen finns Euro Store"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1495, y: 64, z: 1028}
+				label: "Återvändsgränd? 2, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Återvändsgränd? 2, 2133 Shoppingdistriktet</b> ägs av Räkino Casino. På adressen finns Räkino Casino"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1493, y: 64, z: 1047}
+				label: "Återvändsgränd? 4, 2133 Shoppingdistriktet"
+				detail: "<p style='width: 200px;'><b>Återvändsgränd? 4, 2133 Shoppingdistriktet</b> ägs av Räkino Casino. På adressen finns Räkino Casino"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1805, y: 64, z: 1294}
+				label: "~ ingen adress #, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2134 Mangrovetopia</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1794, y: 64, z: 1365}
+				label: "Glada grodvägen 4, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Glada grodvägen 4, 2134 Mangrovetopia</b> ägs av Bjoz. På adressen finns Bjoz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1811, y: 64, z: 1313}
+				label: "Kebabkroken 1, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Kebabkroken 1, 2134 Mangrovetopia</b> ägs av Hoppsan. På adressen finns Hoppsan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1786, y: 64, z: 1318}
+				label: "Kebabkroken 2, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Kebabkroken 2, 2134 Mangrovetopia</b> ägs av Hoppsan. På adressen finns Hoppsan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1798, y: 64, z: 1331}
+				label: "Kebabkroken 4, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Kebabkroken 4, 2134 Mangrovetopia</b> ägs av Braxen. På adressen finns Braxen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1801, y: 64, z: 1333}
+				label: "Kebabkroken 6, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Kebabkroken 6, 2134 Mangrovetopia</b> ägs av Bussen. På adressen finns Bussen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1840, y: 64, z: 1331}
+				label: "Kebabkroken 10, 2134 Mangrovetopia"
+				detail: "<p style='width: 200px;'><b>Kebabkroken 10, 2134 Mangrovetopia</b> ägs av Ninjahumlan. På adressen finns Ninjahumlan"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1898, y: 64, z: 1620}
+				label: "~ ingen adress #, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2135 Jorvik</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2111, y: 64, z: 1447}
+				label: "~ ingen adress #, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2135 Jorvik</b> ägs av Random AB. På adressen finns Random AB"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1814, y: 64, z: 1532}
+				label: "Blodomloppet 4, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Blodomloppet 4, 2135 Jorvik</b> ägs av Zugge. På adressen finns Zugge"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1845, y: 64, z: 1495}
+				label: "Blodomloppet 8, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Blodomloppet 8, 2135 Jorvik</b> ägs av ElgoRexi. På adressen finns ElgoRexi"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1868, y: 64, z: 1474}
+				label: "Blodomloppet 13, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Blodomloppet 13, 2135 Jorvik</b> ägs av Lwsplukas. På adressen finns Lwsplukas"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1695, y: 64, z: 1504}
+				label: "Jorviksgrenen 4, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 4, 2135 Jorvik</b> ägs av Vie. På adressen finns Vie"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1761, y: 64, z: 1508}
+				label: "Jorviksgrenen 7, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 7, 2135 Jorvik</b> ägs av Bjoz. På adressen finns Bjoz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1789, y: 64, z: 1545}
+				label: "Jorviksgrenen 9, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 9, 2135 Jorvik</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1779, y: 64, z: 1559}
+				label: "Jorviksgrenen 14, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 14, 2135 Jorvik</b> ägs av EA15D3. På adressen finns EA15D3"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1789, y: 64, z: 1561}
+				label: "Jorviksgrenen 16, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 16, 2135 Jorvik</b> ägs av Random, Alice. På adressen finns Random, Alice"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1878, y: 64, z: 1547}
+				label: "Jorviksgrenen 25, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 25, 2135 Jorvik</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1905, y: 64, z: 1522}
+				label: "Jorviksgrenen 29, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 29, 2135 Jorvik</b> ägs av Geforce. På adressen finns Geforce"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −2089, y: 64, z: 1357}
+				label: "Jorviksgrenen 49, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Jorviksgrenen 49, 2135 Jorvik</b> ägs av Xpazo01. På adressen finns Xpazo01"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1904, y: 64, z: 1564}
+				label: "Min lilla ponnyvägen 3, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Min lilla ponnyvägen 3, 2135 Jorvik</b> ägs av Nikolai Inc.. På adressen finns Nikolai Inc."
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1868, y: 64, z: 1602}
+				label: "Min lilla ponnyvägen 5, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Min lilla ponnyvägen 5, 2135 Jorvik</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1892, y: 64, z: 1596}
+				label: "Min lilla ponnyvägen 7, 2135 Jorvik"
+				detail: "<p style='width: 200px;'><b>Min lilla ponnyvägen 7, 2135 Jorvik</b> ägs av Masken. På adressen finns Masken"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1648, y: 64, z: 1333}
+				label: "Byggatan 1, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 1, 2143 Happa</b> ägs av Wilski. På adressen finns Wilski"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1631, y: 64, z: 1372}
+				label: "Byggatan 2, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 2, 2143 Happa</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1607, y: 64, z: 1375}
+				label: "Byggatan 6, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 6, 2143 Happa</b> ägs av Rat. På adressen finns Rat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1565, y: 64, z: 1327}
+				label: "Byggatan 7, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 7, 2143 Happa</b> ägs av MaxTax. På adressen finns MaxTax"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1588, y: 64, z: 1371}
+				label: "Byggatan 8, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 8, 2143 Happa</b> ägs av Paulis & Alviun. På adressen finns Paulis & Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1574, y: 64, z: 1288}
+				label: "Byggatan 9, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 9, 2143 Happa</b> ägs av PPON. På adressen finns PPON"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1545, y: 64, z: 1323}
+				label: "Byggatan 11, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 11, 2143 Happa</b> ägs av Ploffsen. På adressen finns Ploffsen"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1553, y: 64, z: 1342}
+				label: "Byggatan 12, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Byggatan 12, 2143 Happa</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1724, y: 64, z: 1298}
+				label: "Engelska gatan 8, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Engelska gatan 8, 2143 Happa</b> ägs av Mysterisk jätte. På adressen finns Mysterisk jätte"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1584, y: 64, z: 1603}
+				label: "Femgatan 1, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Femgatan 1, 2143 Happa</b> ägs av Professorn1234. På adressen finns Professorn1234"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1579, y: 64, z: 1688}
+				label: "Femgatan 2, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Femgatan 2, 2143 Happa</b> ägs av Algorit. På adressen finns Algorit"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1604, y: 64, z: 1718}
+				label: "Femgatan 5, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Femgatan 5, 2143 Happa</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1614, y: 64, z: 1402}
+				label: "Köp- & Säljgatan 32, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 32, 2143 Happa</b> ägs av Alviun. På adressen finns Alviun"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1649, y: 64, z: 1536}
+				label: "Köp- & Säljgatan 44, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 44, 2143 Happa</b> ägs av Random. På adressen finns Random"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1698, y: 64, z: 1573}
+				label: "Köp- & Säljgatan 57, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 57, 2143 Happa</b> ägs av PumparN. På adressen finns PumparN"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1674, y: 64, z: 1585}
+				label: "Köp- & Säljgatan 59, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 59, 2143 Happa</b> ägs av Based Blåhaj Partiet. På adressen finns Based Blåhaj Partiet"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1582, y: 64, z: 1671}
+				label: "Köp- & Säljgatan 62, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 62, 2143 Happa</b> ägs av LuddPudd. På adressen finns LuddPudd"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1689, y: 64, z: 1646}
+				label: "Köp- & Säljgatan 65, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 65, 2143 Happa</b> ägs av Vilmerz07. På adressen finns Vilmerz07"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1539, y: 64, z: 1604}
+				label: "Köp- & Säljgatan 76, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 76, 2143 Happa</b> ägs av Willejami. På adressen finns Willejami"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1572, y: 64, z: 1602}
+				label: "Köp- & Säljgatan 78, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 78, 2143 Happa</b> ägs av Willejami. På adressen finns Willejami"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1532, y: 64, z: 1627}
+				label: "Köp- & Säljgatan 81, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Köp- & Säljgatan 81, 2143 Happa</b> ägs av Laitz. På adressen finns Laitz"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1487, y: 64, z: 1308}
+				label: "Ostkroken 9, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 9, 2143 Happa</b> ägs av JidOsc. På adressen finns JidOsc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1509, y: 64, z: 1315}
+				label: "Ostkroken 10, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 10, 2143 Happa</b> ägs av Wiha. På adressen finns Wiha"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1514, y: 64, z: 1328}
+				label: "Ostkroken 12, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 12, 2143 Happa</b> ägs av JidOsc. På adressen finns JidOsc"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1514, y: 64, z: 1311}
+				label: "Ostkroken 17, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 17, 2143 Happa</b> ägs av Lukas & Hugge. På adressen finns Lukas & Hugge"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1529, y: 64, z: 1296}
+				label: "Ostkroken 19, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 19, 2143 Happa</b> ägs av Wiha. På adressen finns Wiha"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1524, y: 64, z: 1306}
+				label: "Ostkroken 21, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 21, 2143 Happa</b> ägs av Wiha. På adressen finns Wiha"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1536, y: 64, z: 1304}
+				label: "Ostkroken 23, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 23, 2143 Happa</b> ägs av Naetilus. På adressen finns Naetilus"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1486, y: 64, z: 1483}
+				label: "Ostkroken 26, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 26, 2143 Happa</b> ägs av JunoM. På adressen finns JunoM"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1550, y: 64, z: 1379}
+				label: "Ostkroken 31, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 31, 2143 Happa</b> ägs av Ture. På adressen finns Ture"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1525, y: 64, z: 1574}
+				label: "Ostkroken 34, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 34, 2143 Happa</b> ägs av Wimme. På adressen finns Wimme"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1470, y: 64, z: 1570}
+				label: "Ostkroken 40, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 40, 2143 Happa</b> ägs av Wizard. På adressen finns Wizard"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1564, y: 64, z: 1545}
+				label: "Ostkroken 51, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 51, 2143 Happa</b> ägs av Sketch. På adressen finns Sketch"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1545, y: 64, z: 1545}
+				label: "Ostkroken 53, 2143 Happa"
+				detail: "<p style='width: 200px;'><b>Ostkroken 53, 2143 Happa</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: 0, y: 64, z: 0}
+				label: "OKÄND OKÄND, 2145 Walled City"
+				detail: "<p style='width: 200px;'><b>OKÄND OKÄND, 2145 Walled City</b> ägs av OKÄND. På adressen finns Titel"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1315, y: 64, z: 1204}
+				label: "Lynnvägen 8, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>Lynnvägen 8, 2144 Lynn</b> ägs av Emmisibella. På adressen finns Emmisibella"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1323, y: 64, z: 1202}
+				label: "Lynnvägen 7, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>Lynnvägen 7, 2144 Lynn</b> ägs av Catsintown. På adressen finns Catsintown"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1327, y: 64, z: 1221}
+				label: "Lynnvägen 9, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>Lynnvägen 9, 2144 Lynn</b> ägs av MarreNysman. På adressen finns MarreNysman"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1329, y: 64, z: 1261}
+				label: "Lynnvägen 16, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>Lynnvägen 16, 2144 Lynn</b> ägs av KrickeKing. På adressen finns KrickeKing"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −1256, y: 64, z: 1208}
+				label: "~ ingen adress #, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>~ ingen adress #, 2144 Lynn</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: 0, y: 64, z: 0}
+				label: "OKÄND OKÄND, 2144 Lynn"
+				detail: "<p style='width: 200px;'><b>OKÄND OKÄND, 2144 Lynn</b> ägs av OKÄND. På adressen finns Titel"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −739, y: 64, z: 651}
+				label: "Alderanvägen 1, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Alderanvägen 1, OKÄND Joville</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −726, y: 64, z: 797}
+				label: "Alderanvägen 14, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Alderanvägen 14, OKÄND Joville</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −734, y: 64, z: 827}
+				label: "Alderanvägen 17, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Alderanvägen 17, OKÄND Joville</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −741, y: 64, z: 870}
+				label: "Alderanvägen 21, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Alderanvägen 21, OKÄND Joville</b> ägs av Birchesters Stat. På adressen finns Birchesters Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −729, y: 64, z: 901}
+				label: "Alderanvägen 24, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Alderanvägen 24, OKÄND Joville</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −768, y: 64, z: 891}
+				label: "Internationella vägen 3, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Internationella vägen 3, OKÄND Joville</b> ägs av Björktopias Stat. På adressen finns Björktopias Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −777, y: 64, z: 902}
+				label: "Internationella vägen 4, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Internationella vägen 4, OKÄND Joville</b> ägs av Asufarutos Stat. På adressen finns Asufarutos Stat"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −778, y: 64, z: 822}
+				label: "Bybogatan 3, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Bybogatan 3, OKÄND Joville</b> ägs av RekanRekis. På adressen finns RekanRekis"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −818, y: 64, z: 837}
+				label: "Bybogatan 7, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Bybogatan 7, OKÄND Joville</b> ägs av United Villages. På adressen finns United Villages"
+				icon: "assets/HouseSymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Asufaruto:{
+				type:"poi"
+				position:{x: −842, y: 64, z: 869}
+				label: "Bybogatan 11, OKÄND Joville"
+				detail: "<p style='width: 200px;'><b>Bybogatan 11, OKÄND Joville</b> ägs av United Villages. På adressen finns United Villages"
+				icon: "assets/HouseSymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
 				listed: true
