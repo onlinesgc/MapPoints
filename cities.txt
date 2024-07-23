@@ -39,11 +39,11 @@ marker-sets: {
 				listed: true
 				min-distance: 10
 				max-distance: 10000000}
-			Itrin:{
+			Itirin:{
 				type:"poi"
 				position:{x: −3660, y: 64, z: 20}
-				label: "Itrin"
-				detail: "<p style='width: 200px;'><b>Itrin</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itrin' target='_blank'>Läs mer på wikin...</a></p>"
+				label: "Itirin"
+				detail: "<p style='width: 200px;'><b>Itirin</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itirin' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -109,18 +109,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −3200, y: 64, z: 875}
 				label: "Asufarutianska Jungfruöarna"
-				detail: "<p style='width: 200px;'><b>Asufarutianska Jungfruöarna</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av m4sk3n. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 228X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufarutianska Jungfruöarna' target='_blank'>Läs mer på wikin...</a></p>"
-				icon: "assets/CitySymbol.png"
-				anchor: { x: 25, y: 45 }
-				sorting: 0
-				listed: true
-				min-distance: 10
-				max-distance: 10000000}
-			Öken event stället:{
-				type:"poi"
-				position:{x: −3300, y: 64, z: 1410}
-				label: "Öken event stället"
-				detail: "<p style='width: 200px;'><b>Öken event stället</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2301. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Öken event stället' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Asufarutianska Jungfruöarna</b> är en delstad på 90gQ Trusted. Staden grundades 20 maj 2022 av m4sk3n. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 228X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufarutianska Jungfruöarna' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -131,7 +120,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −1785, y: 64, z: −1300}
 				label: "Dominion 17A"
-				detail: "<p style='width: 200px;'><b>Dominion 17A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 231X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17A' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Dominion 17A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Asufaruto Stat. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 231X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17A' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -142,7 +131,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −1760, y: 64, z: 6320}
 				label: "Dominion 17B"
-				detail: "<p style='width: 200px;'><b>Dominion 17B</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 232X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17B' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Dominion 17B</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Alviun  . Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 232X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17B' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -153,7 +142,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
 				label: "Dominion 18 BETA"
-				detail: "<p style='width: 200px;'><b>Dominion 18 BETA</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 233X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18 BETA' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Dominion 18 BETA</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Alviun. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 233X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18 BETA' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -164,7 +153,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −19030, y: 64, z: −595}
 				label: "Dominion 18A"
-				detail: "<p style='width: 200px;'><b>Dominion 18A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 234X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18A' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Dominion 18A</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 234X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18A' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -175,7 +164,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −170, y: 64, z: −9970}
 				label: "Tanks lokalen"
-				detail: "<p style='width: 200px;'><b>Tanks lokalen</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 235X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Tanks lokalen' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Tanks lokalen</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Alviun. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 235X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Tanks lokalen' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -186,7 +175,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 1330, y: 64, z: 1345}
 				label: "Fabriken"
-				detail: "<p style='width: 200px;'><b>Fabriken</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 237X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Fabriken' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Fabriken</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 237X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Fabriken' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -208,7 +197,62 @@ marker-sets: {
 				type:"poi"
 				position:{x: 725, y: 64, z: 8600}
 				label: "Hungergames"
-				detail: "<p style='width: 200px;'><b>Hungergames</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av OKÄND. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 239X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Hungergames' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Hungergames</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Asufaruto Stat. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 239X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Hungergames' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Dünsands :{
+				type:"poi"
+				position:{x: −3300, y: 64, z: 1420}
+				label: "Dünsands "
+				detail: "<p style='width: 200px;'><b>Dünsands </b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2302. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dünsands ' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			SOS Island:{
+				type:"poi"
+				position:{x: 70, y: 64, z: 9970}
+				label: "SOS Island"
+				detail: "<p style='width: 200px;'><b>SOS Island</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Fria Asufaruto Rörelsen (FAR). Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2303. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/SOS Island' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Dominion Party:{
+				type:"poi"
+				position:{x: 170, y: 64, z: −18420}
+				label: "Dominion Party"
+				detail: "<p style='width: 200px;'><b>Dominion Party</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2304. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion Party' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Dominion Parkour:{
+				type:"poi"
+				position:{x: −1298, y: 64, z: −912}
+				label: "Dominion Parkour"
+				detail: "<p style='width: 200px;'><b>Dominion Parkour</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av WikiRaze . Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2305. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion Parkour' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			Guldslätten :{
+				type:"poi"
+				position:{x: −2469, y: 64, z: 2369}
+				label: "Guldslätten "
+				detail: "<p style='width: 200px;'><b>Guldslätten </b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Alviun & Arre. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2306. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Guldslätten ' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -274,7 +318,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −400, y: 64, z: 8970}
 				label: "Björktopia"
-				detail: "<p style='width: 200px;'><b>Björktopia</b> är en storstad på 90gQ Trusted. Staden grundades 8 december 2023 av Ennelolmyra. Staden ägs av Björktopias medborgare, och styrs som en enhetsstatlig parlamentarisk konstitutionell monarki. Kod: BJÖ/BJO, Postnummer: 4XXX. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Björktopia' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Björktopia</b> är en storstad på 90gQ Trusted. Staden grundades 8 december 2023 av Ennelolmyra. Staden ägs av Björktopias medborgare, och styrs som en halvfederalistisk parlamentarisk konstitutionell monarki. Kod: BJÖ/BJO, Postnummer: 4XXX. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Björktopia' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -285,7 +329,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
 				label: "Proletaria"
-				detail: "<p style='width: 200px;'><b>Proletaria</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Lukasabbe & Piximi. Staden ägs av alla Proletarias medborgare, och styrs som en kommunistisk direktdemokrati. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Proletaria</b> är en stad på 90gQ Trusted. Staden grundades 17 mars 2023 av Lukasabbe & Piximi. Staden ägs av alla Proletarias medborgare, och styrs som en kommunistisk direktdemokrati. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -329,7 +373,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 4845, y: 64, z: 6755}
 				label: "Erlendur"
-				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av BlobfiskenBob. Staden ägs av BlobfiskenBob, och styrs som en OKÄND. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades 19 mars 2024 av BlobfiskenBob. Staden ägs av BlobfiskenBob, och styrs som en OKÄND. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -351,7 +395,18 @@ marker-sets: {
 				type:"poi"
 				position:{x: 7275, y: 64, z: 875}
 				label: "Frunkelby"
-				detail: "<p style='width: 200px;'><b>Frunkelby</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Oscarpow3r. Staden ägs av OKÄND, och styrs som en OKÄND. Kod: FRU, Postnummer: 521X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Frunkelby' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Frunkelby</b> är en stad på 90gQ Trusted. Staden grundades 28 februari 2024 av Oskarpow3r. Staden ägs av Oskarpow3r, och styrs som en OKÄND. Kod: FRU, Postnummer: 521X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Frunkelby' target='_blank'>Läs mer på wikin...</a></p>"
+				icon: "assets/CitySymbol.png"
+				anchor: { x: 25, y: 45 }
+				sorting: 0
+				listed: true
+				min-distance: 10
+				max-distance: 10000000}
+			SOS Island:{
+				type:"poi"
+				position:{x: 20, y: 64, z: 9990}
+				label: "SOS Island"
+				detail: "<p style='width: 200px;'><b>SOS Island</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Hoppsan . Staden ägs av SOS Islands medborgare, och styrs som en självstyrande direktdemokrati. Kod: OKÄND, Postnummer: OKÄND. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/SOS Island' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
