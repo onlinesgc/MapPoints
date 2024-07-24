@@ -32,7 +32,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −4130, y: 64, z: 115}
 				label: "Norge"
-				detail: "<p style='width: 200px;'><b>Norge</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Hundmos. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 221X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Norge' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Norge</b> är en delstad på 90gQ Trusted. Staden grundades 7 september 2021 av Alviun,Viggidig & Snichard. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 221X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Norge' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -43,7 +43,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −3660, y: 64, z: 20}
 				label: "Itirin"
-				detail: "<p style='width: 200px;'><b>Itirin</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itirin' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Itirin</b> är en delstad på 90gQ Trusted. Staden grundades 29 december 2021 av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itirin' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -54,7 +54,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 0, y: 64, z: 0}
 				label: "Bedtopia"
-				detail: "<p style='width: 200px;'><b>Bedtopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Bedtopianerna. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 223X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Bedtopia' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Bedtopia</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Råd Vise. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 223X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Bedtopia' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -87,7 +87,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −2830, y: 64, z: 1805}
 				label: "Remetto"
-				detail: "<p style='width: 200px;'><b>Remetto</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Ninjahumlan. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 226X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Remetto' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Remetto</b> är en delstad på 90gQ Trusted. Staden grundades 22 mars 2022 av Ninjahumlan. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 226X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Remetto' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -98,7 +98,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 4770, y: 64, z: −6310}
 				label: "Kuba"
-				detail: "<p style='width: 200px;'><b>Kuba</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Per Persson. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 227X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kuba' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Kuba</b> är en delstad på 90gQ Trusted. Staden grundades OKÄND av Kubianerna. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 227X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kuba' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -197,7 +197,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 725, y: 64, z: 8600}
 				label: "Hungergames"
-				detail: "<p style='width: 200px;'><b>Hungergames</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Asufaruto Stat. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 239X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Hungergames' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Hungergames</b> är en dominion på 90gQ Trusted. Staden grundades OKÄND av Alviun (TUF). Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 239X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Hungergames' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
