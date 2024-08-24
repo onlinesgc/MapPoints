@@ -327,7 +327,7 @@ marker-sets: {
 				max-distance: 10000000}
 			Proletaria:{
 				type:"poi"
-				position:{x: 0, y: 64, z: 0}
+				position:{x: −3377, y: 64, z: 17826}
 				label: "Proletaria"
 				detail: "<p style='width: 200px;'><b>Proletaria</b> är en stad på 90gQ Trusted. Staden grundades 17 mars 2023 av Lukasabbe & Piximi. Staden ägs av alla Proletarias medborgare, och styrs som en kommunistisk direktdemokrati. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
@@ -373,7 +373,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: 4845, y: 64, z: 6755}
 				label: "Erlendur"
-				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades 19 mars 2024 av BlobfiskenBob. Staden ägs av BlobfiskenBob, och styrs som en OKÄND. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Erlendur</b> är en stad på 90gQ Trusted. Staden grundades 19 mars 2024 av BlobfiskenBob. Staden ägs av BlobfiskenBob, och styrs som en enhetsstatlig demokratiskt hövdingadöme. Kod: ERL, Postnummer: 536X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Erlendur' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
