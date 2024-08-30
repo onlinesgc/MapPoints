@@ -351,7 +351,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −1310, y: 64, z: 3309}
 				label: "Sakura"
-				detail: "<p style='width: 200px;'><b>Sakura</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Mars. Staden ägs av H.M. Krotung Mars, och styrs som en enhetsstatlig absolut monarki. Kod: SAK, Postnummer: 534X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Sakura' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Sakura</b> är en stad på 90gQ Trusted. Staden grundades 1 februari 2023 av Mars. Staden ägs av H.M. Krottung Mars, och styrs som en enhetsstatlig absolut monarki. Kod: SAK, Postnummer: 534X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Sakura' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
@@ -384,7 +384,7 @@ marker-sets: {
 				type:"poi"
 				position:{x: −7951, y: 64, z: 6154}
 				label: "Shikaku"
-				detail: "<p style='width: 200px;'><b>Shikaku</b> är en stad på 90gQ Trusted. Staden grundades OKÄND av Naetilus. Staden ägs av Kung Naetilus av Shikaku, och styrs som en OKÄND. Kod: SHI, Postnummer: 541X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Shikaku' target='_blank'>Läs mer på wikin...</a></p>"
+				detail: "<p style='width: 200px;'><b>Shikaku</b> är en stad på 90gQ Trusted. Staden grundades 22 november 2024 av Naetilus. Staden ägs av Kung Naetilus av Shikaku, och styrs som en OKÄND. Kod: SHI, Postnummer: 541X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Shikaku' target='_blank'>Läs mer på wikin...</a></p>"
 				icon: "assets/CitySymbol.png"
 				anchor: { x: 25, y: 45 }
 				sorting: 0
