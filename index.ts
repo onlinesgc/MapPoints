@@ -49,5 +49,6 @@ function get_id(name: string){
         .replace(/å/g, "a")
         .replace(/ä/g, "a")
         .replace(/ö/g, "o")
+        .replace(/ü/g, "u")
         .replace(/ô/g, "o");
 }
