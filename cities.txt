@@ -243,7 +243,7 @@ marker-sets: {
                 max-distance: 10000000
             }
             
-            Dünsands-: {
+            Dunsands-: {
                 type: "poi",
                 position : { x: −3300, y: 64, z: 1420},
                 label: "Dünsands ",
