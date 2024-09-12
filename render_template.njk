@@ -1,0 +1,27 @@
+marker-sets: {
+
+    cities-markers: {
+
+        label: "Städer",
+        toggleable: true
+        default-hidden: false
+        sorting: 0
+
+        markers: {
+            {% for city in cities %}
+            {{ city.id }}: {
+                type: "poi",
+                position : { x: {{ city.x }}, y: {{ city.y }}, z: {{ city.z }}},
+                label: "{{ city.name }}",
+                detail: "<p style='width: 200px;'><b>{{ city.name }}</b> är en spawn-stad på 90gQ Trusted. Staden grundades {{ city.date }} av {{ city.founder}}. Staden ägs av {{ city.owners }}, och styrs som en {{ city.ruleing }}. Kod: {{ city.code }}, Postnummer: {{ city.citycode }}. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/{{ city.name }}' target='_blank'>Läs mer på wikin...</a></p>"
+                icon: "assets/CitySymbol.png"
+                anchor: { x: 25, y: 45 }
+                sorting: 0
+                listed : true
+                min-distance: 10
+                max-distance: 10000000
+            }
+            {% endfor %}   
+        }
+    }
+}
