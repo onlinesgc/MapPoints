@@ -26,7 +26,7 @@ jobs:
           GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           GOOGLE_SPREED_SHEET: ${{ secrets.GOOGLE_SPREED_SHEET }}
-        run: node index.js
+        run: npm run dev
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
