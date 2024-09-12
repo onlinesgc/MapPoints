@@ -28,7 +28,7 @@ config();
             x: row.get("X") || 0,
             y: 64,
             z: row.get("Z") || 0,
-            date : row.get("Datum") || "okänt",
+            date : row.get("Datum") || "okänt datum",
             founder: row.get("Grundare") || "okänt",
             owners : row.get("Ägare") || "okänt",
             ruleing: row.get("Styre") || "okänt",
