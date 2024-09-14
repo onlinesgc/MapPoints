@@ -24,7 +24,7 @@ marker-sets: {
             
             Asufaruto: {
                 type: "poi",
-                position : { x: −2000, y: 64, z: 770},
+                position : { x: 0, y: 64, z: 770},
                 label: "Asufaruto",
                 detail: "<p style='width: 200px;'><b>Asufaruto</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 29 mars 2021 av DJRazzo &amp; Raggebus02. Staden ägs av traditionellt sett av Det Vise Rådet, men i praktiken av det folkvalda Asufaruto Council, och styrs som en konfedererad parlamentarisk konstitutionell Monarki. Kod: ASU, Postnummer: 2XXX. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufaruto' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -37,7 +37,7 @@ marker-sets: {
             
             Norge: {
                 type: "poi",
-                position : { x: −4130, y: 64, z: 115},
+                position : { x: 0, y: 64, z: 115},
                 label: "Norge",
                 detail: "<p style='width: 200px;'><b>Norge</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 7 september 2021 av Alviun,Viggidig &amp; Snichard. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 221X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Norge' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -50,7 +50,7 @@ marker-sets: {
             
             Itirin: {
                 type: "poi",
-                position : { x: −3660, y: 64, z: 20},
+                position : { x: 0, y: 64, z: 20},
                 label: "Itirin",
                 detail: "<p style='width: 200px;'><b>Itirin</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 29 december 2021 av Moggi. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 222X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Itirin' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -76,7 +76,7 @@ marker-sets: {
             
             Busstopia: {
                 type: "poi",
-                position : { x: 2000, y: 64, z: −320},
+                position : { x: 2000, y: 64, z: 0},
                 label: "Busstopia",
                 detail: "<p style='width: 200px;'><b>Busstopia</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 25 december 2021 av Bussen2008. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: BUS, Postnummer: 224X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Busstopia' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -102,7 +102,7 @@ marker-sets: {
             
             Remetto: {
                 type: "poi",
-                position : { x: −2830, y: 64, z: 1805},
+                position : { x: 0, y: 64, z: 1805},
                 label: "Remetto",
                 detail: "<p style='width: 200px;'><b>Remetto</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 22 mars 2022 av Ninjahumlan. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 226X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Remetto' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -115,7 +115,7 @@ marker-sets: {
             
             Kuba: {
                 type: "poi",
-                position : { x: 4770, y: 64, z: −6310},
+                position : { x: 4770, y: 64, z: 0},
                 label: "Kuba",
                 detail: "<p style='width: 200px;'><b>Kuba</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Kubianerna. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 227X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Kuba' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -128,7 +128,7 @@ marker-sets: {
             
             Asufarutianska-Jungfruoarna: {
                 type: "poi",
-                position : { x: −3200, y: 64, z: 875},
+                position : { x: 0, y: 64, z: 875},
                 label: "Asufarutianska Jungfruöarna",
                 detail: "<p style='width: 200px;'><b>Asufarutianska Jungfruöarna</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 20 maj 2022 av m4sk3n. Staden ägs av Konungariket Asufaruto, och styrs som en delvis självständig federerad delstat inom federationen Asufaruto. Kod: ASU_FED, Postnummer: 228X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Asufarutianska Jungfruöarna' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -141,7 +141,7 @@ marker-sets: {
             
             Dominion-17A: {
                 type: "poi",
-                position : { x: −1785, y: 64, z: −1300},
+                position : { x: 0, y: 64, z: 0},
                 label: "Dominion 17A",
                 detail: "<p style='width: 200px;'><b>Dominion 17A</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Asufaruto Stat. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 231X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17A' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -154,7 +154,7 @@ marker-sets: {
             
             Dominion-17B: {
                 type: "poi",
-                position : { x: −1760, y: 64, z: 6320},
+                position : { x: 0, y: 64, z: 6320},
                 label: "Dominion 17B",
                 detail: "<p style='width: 200px;'><b>Dominion 17B</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Alviun  . Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 232X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 17B' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -180,7 +180,7 @@ marker-sets: {
             
             Dominion-18A: {
                 type: "poi",
-                position : { x: −19030, y: 64, z: −595},
+                position : { x: 0, y: 64, z: 0},
                 label: "Dominion 18A",
                 detail: "<p style='width: 200px;'><b>Dominion 18A</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 234X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion 18A' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -193,7 +193,7 @@ marker-sets: {
             
             Tanks-lokalen: {
                 type: "poi",
-                position : { x: −170, y: 64, z: −9970},
+                position : { x: 0, y: 64, z: 0},
                 label: "Tanks lokalen",
                 detail: "<p style='width: 200px;'><b>Tanks lokalen</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Alviun. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 235X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Tanks lokalen' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -219,7 +219,7 @@ marker-sets: {
             
             Le-Xina: {
                 type: "poi",
-                position : { x: 55, y: 64, z: −8980},
+                position : { x: 55, y: 64, z: 0},
                 label: "Le Xina",
                 detail: "<p style='width: 200px;'><b>Le Xina</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Bananiboi. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 238X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Le Xina' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -245,7 +245,7 @@ marker-sets: {
             
             Dunsands-: {
                 type: "poi",
-                position : { x: −3300, y: 64, z: 1420},
+                position : { x: 0, y: 64, z: 1420},
                 label: "Dünsands ",
                 detail: "<p style='width: 200px;'><b>Dünsands </b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2302. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dünsands ' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -271,7 +271,7 @@ marker-sets: {
             
             Dominion-Party: {
                 type: "poi",
-                position : { x: 170, y: 64, z: −18420},
+                position : { x: 170, y: 64, z: 0},
                 label: "Dominion Party",
                 detail: "<p style='width: 200px;'><b>Dominion Party</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av AU. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2304. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion Party' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -284,7 +284,7 @@ marker-sets: {
             
             Dominion-Parkour: {
                 type: "poi",
-                position : { x: −1298, y: 64, z: −912},
+                position : { x: 0, y: 64, z: 0},
                 label: "Dominion Parkour",
                 detail: "<p style='width: 200px;'><b>Dominion Parkour</b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av WikiRaze . Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2305. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Dominion Parkour' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -297,7 +297,7 @@ marker-sets: {
             
             Guldslatten-: {
                 type: "poi",
-                position : { x: −2469, y: 64, z: 2369},
+                position : { x: 0, y: 64, z: 2369},
                 label: "Guldslätten ",
                 detail: "<p style='width: 200px;'><b>Guldslätten </b> är en spawn-stad på 90gQ Trusted. Staden grundades den okänt datum av Alviun &amp; Arre. Staden ägs av Konungariket Asufaruto, och styrs som en dominion som är direktstyrt av Asufaruto Council. Kod: ASU_ÖVR, Postnummer: 2306. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Guldslätten ' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -310,7 +310,7 @@ marker-sets: {
             
             Birchester: {
                 type: "poi",
-                position : { x: 5950, y: 64, z: −6300},
+                position : { x: 5950, y: 64, z: 0},
                 label: "Birchester",
                 detail: "<p style='width: 200px;'><b>Birchester</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 26 juli 2021 av WikiRaze, Taggen33, DjRazzo, JidOsc, QuiteHornet67 &amp; Ackali. Staden ägs av Birchesters meborgare, och styrs som en enhetsstatlig parlamentarisk konstitutionell monarki. Kod: BIR, Postnummer: 3XXX. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Birchester' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -323,7 +323,7 @@ marker-sets: {
             
             Leffes-Skrot: {
                 type: "poi",
-                position : { x: 190, y: 64, z: −1560},
+                position : { x: 190, y: 64, z: 0},
                 label: "Leffes Skrot",
                 detail: "<p style='width: 200px;'><b>Leffes Skrot</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 25 november 2021 av Bananiboi. Staden ägs av Samväldstaten Leffes Skrots ledare Bananiboi, och styrs som en enhetsstatlig rådsstyrd konstitutionell monarki. Kod: NRD, Postnummer: 321X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Leffes Skrot' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -336,7 +336,7 @@ marker-sets: {
             
             Mountcaster: {
                 type: "poi",
-                position : { x: −19090, y: 64, z: −625},
+                position : { x: 0, y: 64, z: 0},
                 label: "Mountcaster",
                 detail: "<p style='width: 200px;'><b>Mountcaster</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 16 december 2021 av Birchesters Socialistparti. Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: BIR_DOM, Postnummer: 322X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Mountcaster' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -362,7 +362,7 @@ marker-sets: {
             
             Luna: {
                 type: "poi",
-                position : { x: −4581, y: 64, z: −500},
+                position : { x: 0, y: 64, z: 0},
                 label: "Luna",
                 detail: "<p style='width: 200px;'><b>Luna</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 27 juni 2022 av Hoppsan, Naetilus, JidOsc &amp; Viggidig. Staden ägs av Konungariket Birchester, och styrs som en dominion med guvernör tillsatt av Birchesters stat. Kod: LUN, Postnummer: 324X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Luna' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -375,7 +375,7 @@ marker-sets: {
             
             Bjorktopia: {
                 type: "poi",
-                position : { x: −400, y: 64, z: 8970},
+                position : { x: 0, y: 64, z: 8970},
                 label: "Björktopia",
                 detail: "<p style='width: 200px;'><b>Björktopia</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 8 december 2023 av Ennelolmyra. Staden ägs av Björktopias medborgare, och styrs som en halvfederalistisk parlamentarisk konstitutionell monarki. Kod: BJÖ/BJO, Postnummer: 4XXX. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Björktopia' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -388,7 +388,7 @@ marker-sets: {
             
             Proletaria: {
                 type: "poi",
-                position : { x: −3377, y: 64, z: 17826},
+                position : { x: 0, y: 64, z: 17826},
                 label: "Proletaria",
                 detail: "<p style='width: 200px;'><b>Proletaria</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 17 mars 2023 av Lukasabbe &amp; Piximi. Staden ägs av alla Proletarias medborgare, och styrs som en kommunistisk direktdemokrati. Kod: PRO, Postnummer: 532X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Proletaria' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -414,7 +414,7 @@ marker-sets: {
             
             Sakura: {
                 type: "poi",
-                position : { x: −1310, y: 64, z: 3309},
+                position : { x: 0, y: 64, z: 3309},
                 label: "Sakura",
                 detail: "<p style='width: 200px;'><b>Sakura</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 1 februari 2023 av Mars. Staden ägs av H.M. Krottung Mars, och styrs som en enhetsstatlig absolut monarki. Kod: SAK, Postnummer: 534X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Sakura' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
@@ -453,7 +453,7 @@ marker-sets: {
             
             Shikaku: {
                 type: "poi",
-                position : { x: −7951, y: 64, z: 6154},
+                position : { x: 0, y: 64, z: 6154},
                 label: "Shikaku",
                 detail: "<p style='width: 200px;'><b>Shikaku</b> är en spawn-stad på 90gQ Trusted. Staden grundades den 22 november 2024 av Naetilus. Staden ägs av Kung Naetilus av Shikaku, och styrs som en okänt. Kod: SHI, Postnummer: 541X. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/Shikaku' target='_blank'>Läs mer på wikin...</a></p>"
                 icon: "assets/CitySymbol.png"
