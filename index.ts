@@ -25,9 +25,9 @@ config();
         objList.push({
             id: get_id(row.get("Namn")),
             name: row.get("Namn"),
-            x: row.get("X") || 0,
+            x: parseInt(row.get("X")) || 0,
             y: 64,
-            z: row.get("Z") || 0,
+            z: parseInt(row.get("Z")) || 0,
             date : row.get("Datum") || "okänt datum",
             founder: row.get("Grundare") || "okänt",
             owners : row.get("Ägare") || "okänt",
