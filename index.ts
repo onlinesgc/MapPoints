@@ -34,6 +34,7 @@ config();
             ruleing: row.get("Styre") || "okänt",
             code: row.get("Kod") || "okänt",
             citycode: row.get("Postnr") || "okänt",
+            type: row.get("Typ") || "okänt",
         });
     });
 
