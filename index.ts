@@ -38,9 +38,9 @@ config();
         });
     });
 
-    const rendered = await nunjucks.render("render_template.njk", {cities: objList});
+    const rendered = await nunjucks.render("trusted_overworld.njk", {cities: objList});
 
-    fs.writeFileSync("./cities.txt", rendered);
+    fs.writeFileSync("./trusted_overworld.conf", rendered);
 
 })();
 
