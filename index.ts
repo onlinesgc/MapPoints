@@ -35,6 +35,7 @@ config();
             code: row.get("Kod") || "okänt",
             citycode: row.get("Postnr") || "okänt",
             type: row.get("Typ") || "okänt",
+            belongs_to: row.get("Tillhör") || "okänt",
         });
     });
 
