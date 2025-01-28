@@ -130,8 +130,8 @@ marker-sets: {
                 type: "poi",
                 position : { x: {{ city.x }}, y: {{ city.y }}, z: {{ city.z }}},
                 label: "{{ city.name }}",
-                detail: "<p style='width: 200px;'><b>{{ city.name }}</b> är en {{ city.type }} på 90gQ Trusted. Staden grundades den {{ city.date }} av {{ city.founder}}. Staden ägs av {{ city.owners }}, och styrs som en {{ city.ruleing }}. Kod: {{ city.code }}, Postnummer: {{ city.citycode }}. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/{{ city.name }}' target='_blank'>Läs mer på wikin...</a></p>"
-                icon: "assets/CitySymbol.png"
+                detail: "<p style='width: 200px;'><b>{{ city.name }}</b> är en {{ city.type }} på SGC Trusted. Staden grundades den {{ city.date }} av {{ city.founder }}. Staden ägs av {{ city.owners }}, och styrs som en {{ city.ruleing }}. Kod: {{ city.code }}, Postnummer: {{ city.citycode }}. <a style='pointer-events: all;' href='https://trusted.fandom.com/sv/wiki/{{ city.name }}' target='_blank'>Läs mer på wikin...</a></p>"
+                icon: "assets/poi-{{ city.type | lower }}.png"
                 anchor: { x: 25, y: 45 }
                 sorting: 0
                 listed : true
