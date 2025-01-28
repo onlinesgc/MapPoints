@@ -125,7 +125,7 @@ marker-sets: {
         default-hidden: false
         sorting: 0
         markers: {
-            {% for city in cities %}
+            {%- for city in cities %}
             {{ city.id }}: {
                 type: "poi",
                 position : { x: {{ city.x }}, y: {{ city.y }}, z: {{ city.z }}},
@@ -138,7 +138,7 @@ marker-sets: {
                 min-distance: 10
                 max-distance: 10000000
             }
-            {% endfor %}   
+            {%- endfor %}   
         }
     }
 }
